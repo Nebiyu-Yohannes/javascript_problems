@@ -90,7 +90,7 @@ while (current) {
  * @return {ListNode}
  */
 
-const addTwoNumbers = function(l1, l2) {
+const _addTwoNumbers_ = function(l1, l2) {
     let dummy = new ListNode();
     let current = dummy;
     let carry = 0;
